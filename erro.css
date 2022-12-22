@@ -1,0 +1,28 @@
+body {
+    background-image: linear-gradient(to right, rgb(141, 185, 230), dodgerblue, rgb(0, 0, 53));
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+}
+.text {
+    text-transform: uppercase;
+    margin-top: 200px;
+}
+button {
+    margin-left: -15%;
+    width: 20%;
+    height: 60px;
+    background: rgb(49, 12, 116);
+    border-radius: 1vw;
+    border: none;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    cursor: pointer;
+    font-size: large;
+    font-weight: 800;
+    margin-top: -27.8%;
+    position: absolute;
+}
+.arrow{
+    width: 30%;
+}
